@@ -135,7 +135,7 @@ Application Gateway Standard_v2 および WAF_v2 SKU は、自動スケーリン
 
 次の表では、SSL オフロードが有効になっているアプリケーション ゲートウェイ インスタンスごとにパフォーマンス スループットの平均値を示します。
 
-| バックエンド ページの平均応答サイズ | Small | Medium | Large |
+| バックエンドにあるページの平均の応答サイズ | Small | Medium | Large |
 | --- | --- | --- | --- |
 | 6 KB |7.5 Mbps |13 Mbps |50 Mbps |
 | 100 KB |35 Mbps |100 Mbps |200 Mbps |
