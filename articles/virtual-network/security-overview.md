@@ -139,7 +139,7 @@ Azure [パブリック](https://www.microsoft.com/download/details.aspx?id=56519
 
 |優先順位|ソース|ソース ポート| 変換先 | ターゲット ポート | プロトコル | Access |
 |---|---|---|---|---|---|---|
-| 65001 | 0.0.0.0/0 | 0-65535 | インターネット | 0-65535 | 任意 | ALLOW |
+| 65001 | 0.0.0.0/0 | 0-65535 | Internet | 0-65535 | 任意 | ALLOW |
 
 #### <a name="denyalloutbound"></a>DenyAllOutBound
 
