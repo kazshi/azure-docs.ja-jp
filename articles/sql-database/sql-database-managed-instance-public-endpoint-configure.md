@@ -84,7 +84,7 @@ Set-AzSqlInstance -PublicDataEndpointEnabled $false -force
 
     ![mi-overview.png](media/sql-database-managed-instance-public-endpoint-configure/mi-overview.png)
 
-1. 仮想ネットワークの左側の構成ウィンドウで **[サブネット]** タブを選択し、マネージド インスタンスの **[セキュリティ グループ]** を書き留めます。
+1. 仮想ネットワークの左側の構成ウィンドウで **[サブネット]** タブを選択し、ManagedInstance の **[セキュリティ グループ]** を書き留めます。
 
     ![mi-vnet-subnet.png](media/sql-database-managed-instance-public-endpoint-configure/mi-vnet-subnet.png)
 
