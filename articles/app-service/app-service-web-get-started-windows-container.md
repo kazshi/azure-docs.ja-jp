@@ -147,7 +147,7 @@ https://<app_name>.scm.azurewebsites.net/api/logstream
 
 ## <a name="update-locally-and-redeploy"></a>ローカルで更新して再デプロイする
 
-1. Visual Studio の**ソリューション エクスプローラー**から、 **[表示]**  >  **[ホーム]**  >  **[Index.cshtml]** の順に開きます。
+1. Visual Studio の**ソリューション エクスプローラー**から、 **Views**  >  **Home**  >  **Index.cshtml** の順に開きます。
 
 1. 上部の `<div class="jumbotron">` HTML タグを検索し、要素全体を次のコードに置き換えます。
 
