@@ -29,7 +29,7 @@ Azure Kubernetes Service (AKS) でアプリケーションへのアクセスを�
 
 既存のサブネットまたはリソース グループを使用する場合、AKS クラスターのサービス プリンシパルにはネットワーク リソースを管理するアクセス許可が必要です。 一般に、委任されたリソースのサービス プリンシパルには*ネットワーク共同作成者*ロールを割り当てます。 アクセス許可の詳細については、[他の Azure リソースへの AKS アクセスの委任][aks-sp]に関する記事を参照してください。
 
-## <a name="create-an-internal-load-balancer"></a>内部ロード バランサーを作成します。
+## <a name="create-an-internal-load-balancer"></a>内部ロード バランサーを作成する
 
 内部ロード バランサーを作成するには、次の例に示すように、サービスの種類 *LoadBalancer* と *azure-load-balancer-internal* の注釈を含む `internal-lb.yaml` という名前のサービス マニフェストを作成します。
 
